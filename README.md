@@ -17,6 +17,7 @@ Microsoft Agent Framework is an open-source development kit for building AI agen
 - [🛠️ Tools & Frameworks](#-tools--frameworks)
 - [📊 Monitoring & Observability](#-monitoring--observability)
 - [🔗 Related Technologies](#-related-technologies)
+- [👥 Community](#-community)
 
 ## ℹ️ General Information on Microsoft Agent Framework
 
@@ -204,6 +205,12 @@ dotnet add package Microsoft.Agents.AI
 - **OpenTelemetry** - Observability standard
 - **Azure AI Content Safety** - Content moderation and safety
 
+## 👥 Community
+
+### Discord
+
+- [Azure AI Foundry Discord](https://discord.gg/azureaifoundry) - Join the community on Discord, see the `#agent-framework` channel for discussions about Microsoft Agent Framework
+
 ## 🤝 Contributing
 
 We welcome contributions to this awesome list!
@@ -217,7 +224,7 @@ We welcome contributions to this awesome list!
 ### Contributing to Microsoft Agent Framework
 
 - For bugs or issues with Microsoft Agent Framework, file a [GitHub issue](https://github.com/microsoft/agent-framework/issues)
-- Join the [Azure AI Foundry Discord](https://discord.gg/b5zjErwbQM) community
+- Join the [Azure AI Foundry Discord](https://discord.gg/azureaifoundry) community, see the `#agent-framework` channel
 - Check out the [Contributing Guide](https://github.com/microsoft/agent-framework/blob/main/CONTRIBUTING.md)
 
 ## 📄 License
