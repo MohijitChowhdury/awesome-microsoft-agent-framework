@@ -207,6 +207,9 @@ dotnet add package Microsoft.Agents.AI
 
 ## 👥 Community
 
+### Discord
+
+- [Azure AI Foundry Discord](https://discord.gg/azureaifoundry) - Join the community on Discord, see the `#agent-framework` channel for discussions about Microsoft Agent Framework
 - [Reddit r/MSAgentFramework](https://www.reddit.com/r/MSAgentFramework/) - Community discussions, questions, and sharing experiences
 
 ## 🤝 Contributing
@@ -222,7 +225,7 @@ We welcome contributions to this awesome list!
 ### Contributing to Microsoft Agent Framework
 
 - For bugs or issues with Microsoft Agent Framework, file a [GitHub issue](https://github.com/microsoft/agent-framework/issues)
-- Join the [Azure AI Foundry Discord](https://discord.gg/b5zjErwbQM) community
+- Join the [Azure AI Foundry Discord](https://discord.gg/azureaifoundry) community, see the `#agent-framework` channel
 - Check out the [Contributing Guide](https://github.com/microsoft/agent-framework/blob/main/CONTRIBUTING.md)
 
 ## 📄 License
