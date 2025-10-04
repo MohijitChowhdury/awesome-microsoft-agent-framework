@@ -192,18 +192,18 @@ dotnet add package Microsoft.Agents.AI
 
 ### Microsoft AI Ecosystem
 
-- **Semantic Kernel** - Predecessor framework for AI orchestration
-- **AutoGen** - Multi-agent conversation framework
-- **Azure AI Foundry** - Cloud platform for AI development
-- **Microsoft 365 Agents SDK** - Enterprise agent development
-- **Copilot Studio** - Low-code agent development
+- [**Semantic Kernel**](https://github.com/microsoft/semantic-kernel) - Predecessor framework for AI orchestration
+- [**AutoGen**](https://github.com/microsoft/autogen) - Multi-agent conversation framework
+- [**Azure AI Foundry**](https://ai.azure.com/) - Cloud platform for AI development
+- [**Microsoft 365 Agents SDK**](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/) - Enterprise agent development
+- [**Copilot Studio**](https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio) - Low-code agent development
 
 ### Standards & Protocols
 
-- **Model Context Protocol (MCP)** - Standard for tool integration
-- **OpenAPI** - API specification standard
-- **OpenTelemetry** - Observability standard
-- **Azure AI Content Safety** - Content moderation and safety
+- [**Model Context Protocol (MCP)**](https://modelcontextprotocol.io/) - Standard for tool integration
+- [**OpenAPI**](https://www.openapis.org/) - API specification standard
+- [**OpenTelemetry**](https://opentelemetry.io/) - Observability standard
+- [**Azure AI Content Safety**](https://azure.microsoft.com/en-us/products/ai-services/ai-content-safety) - Content moderation and safety
 
 ## 👥 Community
 
