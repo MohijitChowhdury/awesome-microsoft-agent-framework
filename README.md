@@ -112,6 +112,10 @@ dotnet add package Microsoft.Agents.AI
 - **Ollama**
 - **Many others through Microsoft.Extensions.AI**
 
+### Articles & Tutorials
+
+- [Agent Framework Demos Day 1: Intercepting Function Calls](https://www.linkedin.com/pulse/agent-framework-demos-day-1-intercepting-function-calls-dibia-phd-sbuqc) - Practical guide to intercepting and handling function calls in Microsoft Agent Framework
+
 ## 🏢 Enterprise & Production
 
 ### Production Features
