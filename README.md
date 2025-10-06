@@ -88,7 +88,8 @@ dotnet add package Microsoft.Agents.AI
 
 ### Community Blogs
 
-- Be first to add
+- [Microsoft Agent Framework](https://www.linkedin.com/pulse/microsoft-agent-framework-bill-ayers-l1ype/) - Article by Bill Ayers
+- [My Take: Why Microsoft Agent Framework Matters](https://www.linkedin.com/pulse/my-take-why-microsoft-agent-framework-matters-edgar-mcochieng--7kh6f/) - Article by Edgar Mcochieng
 
 
 ### Key Concepts
