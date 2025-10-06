@@ -163,9 +163,9 @@ dotnet add package Microsoft.Agents.AI
 
 ### Development Tools
 
-- [**DevUI**](https://learn.microsoft.com/en-us/agent-framework/user-guide/developer-tools/dev-ui) - Interactive developer UI for agent development, testing, and debugging workflows
+- [**DevUI**](https://github.com/microsoft/agent-framework/tree/main/python/packages/devui) - Interactive developer UI for agent development, testing, and debugging workflows
 - [**VS Code AI Toolkit**](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio) - Streamlined experience for building with Microsoft Agent Framework
-- [**AF Labs**](https://github.com/microsoft/agent-framework/tree/main/python/packages/agent-framework-labs) - Experimental packages for cutting-edge features including benchmarking and reinforcement learning
+- [**AF Labs**](https://github.com/microsoft/agent-framework/tree/main/python/packages/lab) - Experimental packages for cutting-edge features including benchmarking and reinforcement learning
 
 ### Integration Options
 
