@@ -11,7 +11,7 @@ Microsoft Agent Framework is an open-source development kit for building AI agen
 - [📚 Official Documentation](#-official-documentation)
 - [🎥 Video Resources](#-video-resources)
 - [📖 Blog Posts & Articles](#-blog-posts--articles)
-- [🔧 Development Resources](#-development-resources)
+- [🔧 Tutorials](#-tutorials)
 - [🏢 Enterprise & Production](#-enterprise--production)
 - [🧪 Examples & Samples](#-examples--samples)
 - [🛠️ Tools & Frameworks](#-tools--frameworks)
@@ -99,26 +99,7 @@ dotnet add package Microsoft.Agents.AI
 - **Tool Integration:** Connecting agents to external APIs and services
 - **Enterprise Deployment:** Production-ready hosting and monitoring
 
-## 🔧 Development Resources
-
-### Core Components
-
-- **AI Agents:** Individual agents that use LLMs to process inputs, call tools, and generate responses
-- **Workflows:** Graph-based workflows that connect multiple agents and functions
-- **Tools:** Integration with external APIs, MCP servers, and custom functions
-- **Middleware:** Flexible system for request/response processing and custom pipelines
-- **Memory & Context:** Thread-based state management and context providers
-
-### Supported Providers
-
-- **Azure OpenAI**
-- **OpenAI**
-- **GitHub Models**
-- **Azure AI Foundry**
-- **Ollama**
-- **Many others through Microsoft.Extensions.AI**
-
-### Articles & Tutorials
+## 🔧 Tutorials
 
 - [Agent Framework Demos Day 1: Intercepting Function Calls](https://www.linkedin.com/pulse/agent-framework-demos-day-1-intercepting-function-calls-dibia-phd-sbuqc) - Practical guide to intercepting and handling function calls in Microsoft Agent Framework
 - [Agent Framework Deep Dive](https://github.com/fabianwilliams/agentframeworkdeepdive) - Deep dive tutorial and comprehensive guide to Microsoft Agent Framework
@@ -169,10 +150,8 @@ dotnet add package Microsoft.Agents.AI
 
 ### Integration Options
 
-- [**Model Context Protocol (MCP)**](https://learn.microsoft.com/en-us/agent-framework/user-guide/tools/mcp) - Connect to external tools and data servers
-- [**Agent-to-Agent (A2A)**](https://learn.microsoft.com/en-us/agent-framework/user-guide/agent-to-agent) - Cross-runtime agent collaboration
-- [**OpenAPI Integration**](https://learn.microsoft.com/en-us/agent-framework/user-guide/tools/openapi) - Automatic tool generation from REST APIs
-- [**Azure Logic Apps**](https://azure.microsoft.com/en-us/products/logic-apps) - Enterprise system connectors
+- [**Model Context Protocol (MCP)**](https://learn.microsoft.com/en-us/agent-framework/user-guide/model-context-protocol/?pivots=programming-language-csharp) - Connect to external tools and data servers
+- [**Agent-to-Agent (A2A)**](https://learn.microsoft.com/en-us/agent-framework/user-guide/agents/agent-types/a2a-agent?pivots=programming-language-csharp) - Cross-runtime agent collaboration
 
 ## 📊 Monitoring & Observability
 
