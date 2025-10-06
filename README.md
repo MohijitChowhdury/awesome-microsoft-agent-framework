@@ -90,7 +90,7 @@ dotnet add package Microsoft.Agents.AI
 
 - [Microsoft Agent Framework](https://www.linkedin.com/pulse/microsoft-agent-framework-bill-ayers-l1ype/) - Article by Bill Ayers
 - [My Take: Why Microsoft Agent Framework Matters](https://www.linkedin.com/pulse/my-take-why-microsoft-agent-framework-matters-edgar-mcochieng--7kh6f/) - Article by Edgar Mcochieng
-
+- [From ChatGPT to Codex: How I Built an Agent Framework Lab That Talks to OpenAI and Ollama](https://www.linkedin.com/pulse/from-chatgpt-codex-how-i-built-agent-framework-lab-talks-williams--vspze/) - Article by Fabian Williams
 
 ### Key Concepts
 
