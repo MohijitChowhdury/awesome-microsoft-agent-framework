@@ -163,16 +163,16 @@ dotnet add package Microsoft.Agents.AI
 
 ### Development Tools
 
-- **DevUI** - Interactive developer UI for agent development, testing, and debugging workflows
-- **VS Code AI Toolkit** - Streamlined experience for building with Microsoft Agent Framework
-- **AF Labs** - Experimental packages for cutting-edge features including benchmarking and reinforcement learning
+- [**DevUI**](https://learn.microsoft.com/en-us/agent-framework/user-guide/developer-tools/dev-ui) - Interactive developer UI for agent development, testing, and debugging workflows
+- [**VS Code AI Toolkit**](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio) - Streamlined experience for building with Microsoft Agent Framework
+- [**AF Labs**](https://github.com/microsoft/agent-framework/tree/main/python/packages/agent-framework-labs) - Experimental packages for cutting-edge features including benchmarking and reinforcement learning
 
 ### Integration Options
 
-- **Model Context Protocol (MCP)** - Connect to external tools and data servers
-- **Agent-to-Agent (A2A)** - Cross-runtime agent collaboration
-- **OpenAPI Integration** - Automatic tool generation from REST APIs
-- **Azure Logic Apps** - Enterprise system connectors
+- [**Model Context Protocol (MCP)**](https://learn.microsoft.com/en-us/agent-framework/user-guide/tools/mcp) - Connect to external tools and data servers
+- [**Agent-to-Agent (A2A)**](https://learn.microsoft.com/en-us/agent-framework/user-guide/agent-to-agent) - Cross-runtime agent collaboration
+- [**OpenAPI Integration**](https://learn.microsoft.com/en-us/agent-framework/user-guide/tools/openapi) - Automatic tool generation from REST APIs
+- [**Azure Logic Apps**](https://azure.microsoft.com/en-us/products/logic-apps) - Enterprise system connectors
 
 ## 📊 Monitoring & Observability
 
